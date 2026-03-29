@@ -1,2 +1,2 @@
-# BookStoreApp
+# BookStore
 # MobileApp
